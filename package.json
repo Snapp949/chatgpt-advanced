@@ -16,7 +16,7 @@
     "cheerio": "^1.0.0-rc.12",
     "linkedom": "^0.14.23",
     "lodash-es": "^4.17.21",
-    "preact": "^10.10.0",
+    "preact": "^10.26.4",
     "uuid": "^9.0.0"
   },
   "devDependencies": {
